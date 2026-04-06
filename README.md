@@ -54,7 +54,7 @@ XGBoost
 LightGBM
 CatBoost
 
-##🧪 Model Performance
+## 🧪 Model Performance
 
 All models achieved:
 
@@ -120,17 +120,17 @@ XGBoost, LightGBM, CatBoost
 Matplotlib
 
 ## 📌 How to Run
-# Clone repo
+### #Clone repo
 git clone <your-repo-link>
 
-# Install dependencies
+### #Install dependencies
 pip install -r requirements.txt
 
-# Run notebook
+### #Run notebook
 jupyter notebook
 
 ## 👤 Author
 
-Sarowar Ahmed
+# Sarowar Ahmed
 
-⭐ If you found this useful, give it a star!
+## ⭐ If you found this useful, give it a star!
